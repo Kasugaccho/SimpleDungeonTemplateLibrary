@@ -1,5 +1,5 @@
-﻿#ifndef INCLUDED_DUNGEON_TEMPLATE_LIBRARY_C89_BIOME_ISLAND
-#define INCLUDED_DUNGEON_TEMPLATE_LIBRARY_C89_BIOME_ISLAND
+﻿#ifndef INCLUDED_DUNGEON_TEMPLATE_LIBRARY_C89_SIMPLE_BIOME_ISLAND
+#define INCLUDED_DUNGEON_TEMPLATE_LIBRARY_C89_SIMPLE_BIOME_ISLAND
 //:::::----------::::::::::----------::::://
 //     Dungeon Template Library     //
 //          Made by Gaccho.          //
