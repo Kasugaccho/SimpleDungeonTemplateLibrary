@@ -1,11 +1,11 @@
 ﻿#ifndef INCLUDED_DUNGEON_TEMPLATE_LIBRARY_C89_SIMPLE_BIOME_ISLAND
 #define INCLUDED_DUNGEON_TEMPLATE_LIBRARY_C89_SIMPLE_BIOME_ISLAND
-//:::::----------::::::::::----------::::://
-//     Dungeon Template Library     //
-//          Made by Gaccho.          //
-// This code is licensed under CC0.  //
-//       wanotaitei@gmail.com       //
-//:::::----------::::::::::----------::::://
+/*:::::----------::::::::::----------:::::
+	 Dungeon Template Library
+		  Made by Gaccho.
+ This code is licensed under CC0.
+	   wanotaitei@gmail.com
+:::::----------::::::::::----------:::::*/
 
 #include <stdlib.h>
 
